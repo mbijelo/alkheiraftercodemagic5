@@ -1,0 +1,13 @@
+cette sauvagarde a ete faite le 20 Mars 2022 
+suite au probleme rencontré dans la note de la sauvegarde0, on a fait  l upgrade de flutter et on a telecharger flutter 2.10.3 dezipper et mis dans le rep development son dart etant à 2.16.1, 
+puis on a traite les dependance les petits bugs et ensuite j  ai changé dans tous les fichier .dart qui ont   :
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+ j ai remplace cette ligne par 
+import 'package:active_ecommerce_flutter/l10n/app_localizations.dart';
+et les ligne de code comportant 
+AppLocalizations.of(context).XXXXXXXXXXXXXXXXXXXXX    ont commencé à fonctionner
+ tous fonctionne donc bien
+
+dans cette sauvegarde se trouve donc aussi le reperoite de flutter à létat qui adequate pour l etat de l app sauvegardé ci. avec l 'etat de flutter adequate aussi.  avec l android studio utilise pour executer 
+flutter dans la rep  /home/hasheur/development/flutter_linux_2.10.3-stable/flutter   
+et android studio dans /opt/android-studio-2020.3.1.26-linux/android-studio

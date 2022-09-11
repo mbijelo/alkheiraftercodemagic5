@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1003217121985-st8pr28g4g9v7m69liigg8tfu2uu61au.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1003217121985-st8pr28g4g9v7m69liigg8tfu2uu61au</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1003217121985-28oql8n7to1aq8o50q3rs1n929b2etog.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYDUp47VtcLya5hLZYM918PtwoUWzafZk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003217121985</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tigersoft.alkheir</string>
+	<key>PROJECT_ID</key>
+	<string>alkheir-286aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alkheir-286aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1003217121985:ios:858fc02846e23af9a95a40</string>
+</dict>
+</plist>

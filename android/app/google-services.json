@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1003217121985",
+    "project_id": "alkheir-286aa",
+    "storage_bucket": "alkheir-286aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003217121985:android:5d60eb441d732262a95a40",
+        "android_client_info": {
+          "package_name": "com.tigersoft.alkheir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003217121985-t7novr8he2ao9v55nkv2o336o18lknqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tigersoft.alkheir",
+            "certificate_hash": "969ecd2783ea1dcff9c44979975ad0ffb3cf3bf9"
+          }
+        },
+        {
+          "client_id": "1003217121985-c9idsldcou6oovpdmd4us3hbic3ajr96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2diNsXoKfwluxDSw2cnfNzoWtlH96pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003217121985-c9idsldcou6oovpdmd4us3hbic3ajr96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
